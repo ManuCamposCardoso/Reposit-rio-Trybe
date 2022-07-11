@@ -1,2 +1,2 @@
-# Reposit-rio-Trybe
+# Repositorio-Trybe
 Exercícios Trybe
